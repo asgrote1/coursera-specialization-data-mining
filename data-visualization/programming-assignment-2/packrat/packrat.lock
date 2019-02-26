@@ -4,7 +4,28 @@ RVersion: 3.4.2
 Repos: CRAN=https://mran.microsoft.com/snapshot/2017-10-15,
     CRANextra=http://www.stats.ox.ac.uk/pub/RWin
 
+Package: Cairo
+Source: CRAN
+Version: 1.5-9
+Hash: 6acb4ad0cff51c9f8148e344db173f70
+
+Package: geosphere
+Source: CRAN
+Version: 1.5-5
+Hash: 6772bef0f3f3aaa58b475479c03ff596
+Requires: sp
+
+Package: maps
+Source: CRAN
+Version: 3.2.0
+Hash: 086a0f4e41bf42749d8737e9407a4853
+
 Package: packrat
 Source: CRAN
 Version: 0.4.8-1
 Hash: 6ad605ba7b4b476d84be6632393f5765
+
+Package: sp
+Source: CRAN
+Version: 1.2-5
+Hash: 355c8b47792e18a08da8708132f994e0

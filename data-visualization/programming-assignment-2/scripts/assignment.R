@@ -9,68 +9,55 @@
 #
 #     4. What do you think the data and your visualization show?
 #
-#   I've learned the hard way that R is not the tool to use for constructing
-#   many of the standard network graphs. However, it functions well to create maps.
+# I've learned the hard way that R is not the tool to use for constructing
+# many of the standard network graphs. However, it functions well to create maps.
 #
-#       1.  What is the data that you chose? Why?
+#     1.  What is the data that you chose? Why?
 #
-#           The data can be found here: http://kateto.net/network-visualization.
-#           This chart is modeled heavily off of Katya Ognyanova's final example
-#           at the aforementioned link, but it goes several steps further and
-#           focuses on airports with few connections rather than many. The data
-#           were chosen after hitting a dead end with patent citation data and a
-#           handful of other data sets.
+#         The data can be found here: http://kateto.net/network-visualization.
+#         This chart is modeled heavily off of Katya Ognyanova's final example
+#         at the aforementioned link, but it goes several steps further and
+#         focuses on airports with few connections rather than many. The data
+#         were chosen after hitting a dead end with patent citation data and a
+#         handful of other data sets.
 #
-#       2.  Did you use a subset of the data? If so, what was it?
+#     2.  Did you use a subset of the data? If so, what was it?
 #
-#           Yes. I restricted the data to airports that fly to 5 or fewer
-#           airports.
+#         Yes. I restricted the data to airports that fly to 5 or fewer
+#         airports.
 #
-#       3.  Are there any particular aspects of your visualization to which you
-#           would like to bring attention?
+#     3.  Are there any particular aspects of your visualization to which you
+#         would like to bring attention?
 #
-#           Contrast makes it easy to discern the different chart elements.
-#           Moreover, I took advantage of size and color to differentiate
-#           between airports with many (5) or few (1) connections via outbound
-#           flights.
+#         Contrast makes it easy to discern the different chart elements.
+#         Moreover, I took advantage of size and color to differentiate
+#         between airports with many (5) or few (1) connections via outbound
+#         flights.
 #
-#       4.  What do you think the data and your visualization show?
+#     4.  What do you think the data and your visualization show?
 #
-#           Notice that there are a surprising number of long-distance flights
-#           to and from small airports. This was a surprise (assuming the
-#           underlying data are correct).
+#         Notice that there are a surprising number of long-distance flights
+#         to and from small airports. This was a surprise (assuming the
+#         underlying data are correct).
 
+install.packages("maps")
+install.packages("geosphere")
+install.packages("Cairo")
 
-# install.packages("igraph")
-# install.packages("network")
-# install.packages("sna")
-# install.packages("visNetwork")
-# install.packages("threejs")
-# install.packages("networkD3")
-# install.packages("ndtv")
-# install.packages("maps")
-# install.packages("geosphere")
-# install.packages("Cairo")
-
-library("packrat")
-library("igraph")
-library("network")
-library("sna")
-library("visNetwork")
-library("threejs")
-library("networkD3")
-library("ndtv")
 library("maps")
 library("geosphere")
 library("Cairo")
 
+draw_on_device <- FALSE
 
 
-png(filename = "figures/assignment2.png",
-    type = c("cairo-png"))
+# Star graphics device. This will print to the specified file rather than
+# the RStudio plots panel.
 
-# CairoPNG(filename = "figures/assignment2.png")
-# CairoJPEG(filename = "figures/assignment2.jpg")
+if (!draw_on_device)
+    png(filename = "figures/assignment2.png",
+        type = c("cairo-png"))
+
 
 # Load airport data
 
@@ -186,6 +173,7 @@ title(main ="Airports Flying to 5 or Fewer Destinations",
       col.main = "white")
 
 
-# Save the plot!
+# Save the plot and disable the graphics device.
 
-dev.off()
+if (!draw_on_device)
+    dev.off()
