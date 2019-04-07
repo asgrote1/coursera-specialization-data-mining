@@ -132,14 +132,20 @@ void pl2_tune(const std::shared_ptr<index::dblru_inverted_index>& idx,
                                                    // for the current query in
                                                    // the instance eval
       }
+      
+//      std::cout << "eval.map: " << eval.map() << ", maxmap: " << maxmap << " at (i, j): (" << i << ", " << j << ")" << std::endl;
       if (eval.map() > maxmap)  // Updates maxmap, cmax, lambdamax if the
                                 // current map, which is equal to eval.map(), is
                                 // greater than maxmap
       {
         // You should only change the values of the following three assignments
-        maxmap = 0;     // Change 0 to the correct value
-        cmax = 0;       // Change 0 to the correct value
-        lambdamax = 0;  // Change 0 to the correct value
+//        maxmap = 0;     // Change 0 to the correct value
+//        cmax = 0;       // Change 0 to the correct value
+//        lambdamax = 0;  // Change 0 to the correct value
+//        std::cout << "SWITCH" << std::endl;
+        maxmap = eval.map();     // Change 0 to the correct value
+        cmax = cvalues[i];       // Change 0 to the correct value
+        lambdamax = lambdavalues[j];  // Change 0 to the correct value
       }
 
       eval.reset_stats();  // Deletes all the average precision values stored in
