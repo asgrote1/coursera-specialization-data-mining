@@ -80,8 +80,11 @@ float pl2_ranker::score_one(const index::score_data& sd) {
    * Use the function log2() to implement the logarithm
    * Use exp(1) to implement e
   **/
+ float tfn = tf * log2(1 + c * avg_dl / doc_len);
 
-  return 0;  // Change 0 to the final score you calculated
+ float score = 1 / (tfn + 1) * (tfn * log2(tfn / lambda) + (lambda + 1 / (12 * tfn) - tfn) * log2(exp(1)) + 0.5 * log2(2 * pi * tfn));
+
+  return score;  // Change 0 to the final score you calculated
 }
 
 void pl2_tune(const std::shared_ptr<index::dblru_inverted_index>& idx,
