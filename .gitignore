@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 **/packrat/lib*/
+
+**/meta
+**/meta/
+**/build/
