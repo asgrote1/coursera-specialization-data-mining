@@ -1,0 +1,5 @@
+machine learning
+To learn how to identify data clusters via machine learning models.
+
+anomaly detection
+Learn how to dynamically identify data anomalies.
