@@ -1,0 +1,638 @@
+economics statistics
+Statistical physics
+chinese
+efficient clustering of high dimensional datasets
+elastic net regularization
+distributed programming
+sentiment analysis
+Machine learning techniques
+yoga: body and mind
+text retrieval ans search engines announcements
+database knowledge
+cognitive neuroscience
+tv
+Macro Economics
+MCMC simulation
+hadoop beginner
+innovations in data science
+metallurgy
+applications data mining in health
+business intelligence prediction
+agile methodologies
+quantum computing
+master data management
+Microeconomic
+data structures and algorithms
+baidu
+process mining
+history of the united states
+genetic algorithms
+learn to play the guitar
+cook
+programming C#
+Dutch language
+applications of probability and statistics in engineering
+watercolor painting
+big data scala
+programming C
+checkout process optimization
+science
+ebola
+android game developement
+big data spark
+system programming
+Effective Communication
+gather information
+vhdl
+RFID
+data analysis
+object segmentation image
+basic economics
+learn japanese
+investing
+cooking
+graph partioning
+user experience web interface design
+probability and statistics
+Business analytics
+probability basics
+coursera algorithm course
+distributed computing
+Linear Programming
+random forests
+databases
+math teaching
+learn natural language processing
+software testing
+mining social networks
+learn spanish asap
+hadoop big data MapReduce
+programming python begginer
+Arabic
+dog trainig puppies
+unreal engine programming
+lambda calculus and combinators
+Bayesian Inference
+Data visualization html javascript tutorial
+Gamification
+\learn artificial intelligence algorithms for multi-agent systems
+functional reactive programming
+sparrows, bees and cell phones
+music course
+ontology
+local sensitive hashing
+mining sentiments in texts
+quantum mechanics
+risk management
+Bioinformatics
+data management
+debugging code
+Theory of Black Holes
+make a wearable arduino device
+computational linguistics
+Text retrieval
+asian cuisine
+how to build a pivot table in microsoft excel
+How to compose a song
+Business applications of Game Theory
+best search engines
+Neural networks
+ml
+functional programming
+machine learning
+health data analysis
+english composition
+Clojure
+Python Language
+data mining genetics
+pet sitting
+swift programming
+R Programming
+python programming
+semantic web
+learn Ruby
+"Search Engine"
+business intelligence from big data
+neural network
+Node.js
+cryptography
+latin american history
+poetry
+learn lucene
+computer vision
+voice recognition systems
+Java Virtual Machine
+android java
+hadoop data mining
+c++ programming
+plant genetic engineering
+Japanese Culture
+description
+Lisp
+to learn data science
+wafer manufacturing
+semantic search
+portfolio
+bioinformatics
+data
+big data analysis
+nlp semantic modeling
+parallel information retrieval
+Android game development
+data science in r
+k-means
+data science with R
+astro-photography
+Machine Learning
+efficient python programming
+Haskell
+algorithms
+To learn how to raise usability of onlineshops by using search and recommendation Engines
+structured text organization
+c++ for C programmers
+Convex Optimization
+system-level development
+ios programming
+brin
+build startup
+financial market
+watering plants
+linguistics
+hardware verification
+arduino
+machine vision algorithms for flying drone robots
+ecommerce training
+carpentry
+Distributed Algorithm
+python
+Search Engine Optimization
+Functional Analysis
+to learn how to program in python
+business judgment
+To learn how to efficiently do retrieval from large datasets
+options vs stocks
+crypto
+inverse index
+python basics
+web development
+logistic regression
+french wine
+opinion mining
+Statistics
+vegan cooking
+To learn about Hadoop and NoSQL
+Apache Spark
+digital logic
+C++ language
+introduction to statistics
+Natural Language Processing
+Power Electronics
+international law
+Text mining
+network
+document modeling
+electronic
+map reduce
+Advanced Statistics
+pet fostering
+electronics
+Astronomy
+algorithms designing
+to learn how to cook
+bird names
+ios application
+big data hadoop and analytics
+Number theory
+become Linux kernel developer
+Computer Security
+algorithm design
+maths
+Baroque art and architecture
+image recognition
+music composition
+game theory in computing
+SAAS business
+programming
+ergodic theory
+Imperfections
+data mining and classification
+massive
+find software bug
+GRE exam
+quant finance algorithm
+secure cryptography methods
+classical guitar
+Learn about HTML5
+applied statistics
+drones
+semantic web technologies
+image processing
+management
+Mutual funds
+robot planning
+roi metrics
+using lucene with hadoop
+I would like to learn how to do patternmining
+operating systems
+text mining
+nutrition
+frequent pairs
+Data visualization
+apache spark
+Machine learning
+electronic music production
+algorithm complexity
+cross-platform mobile programming
+machine learning methods
+Data Retrieval
+search engine internals
+ancient greek civilization
+Deep Learning
+karate
+text retrieval and search engines
+neural networks in deep learning
+enterprise network
+string theory
+math word problems
+game theory
+Predictive Analytics
+Information
+introdution to hadoop
+stamp collecting
+super programming
+Advanced Machine Learning
+course orientation Text Retrieval and Search Engines
+3d printing
+Creativity
+business intelligence
+stocks and bonds
+japanese literature
+Quantum Computer Physics
+indian cooking
+knowledge base
+Support Vector Machines
+Learn Korean
+user experience
+predictive modeling
+perl scripting
+Natural Language Processing for Machine Learning
+eHealth courses
+natural language processing
+translate German to English
+marine science
+text retreival
+calculus
+programming in C++
+low back pain
+insert data into HBase
+Linux Systems Admin
+animal behavior
+non-profit organization management
+large scale machine learning
+Information theory
+C++
+iOS development
+combinatorial game theory
+Post graduate in us
+climate golf stream
+statistics for data scientists
+algebraic number theory
+functional programming in practice
+archery
+Excel Macros
+electromagnetic field theory
+convex optimization
+Introduction to Hadoop
+concurrency programming for cloud
+search engine
+painting
+Statistical Learning
+nlp
+text summarization
+3d animation
+Neural Networks
+Learn C Sharp Programming
+UIMA
+lambda expression
+History of Art
+learning to be an electrician
+geography
+urethroplasty surgery and recovery
+big data
+First Aid
+Machine Learning Implementation
+learn to play classic guitar
+how to cook pretty cupcakes
+knitting bootcamp
+How did the World War II come to an end?
+recommender systems
+manipulation sociology
+search engine and text mining visualization
+Machine Learning in Practice
+finite element analysis
+gardening in colorado
+compiler
+grid parallel computing
+learning data mining
+tools of astronomy
+collaborative filtering
+c++
+Text retrieval for information visualization
+Java for NLP
+architecture
+networking with java
+linear algebra
+self destructing images
+how to retrieve information from huge text documents
+text mining, analytics and visualization
+climate change
+what is text retrieval
+analytics
+computational cognitive science
+text analysis programming tools
+Android
+neuroscience brain
+java development
+Machine Learning Data preprocessing
+web application for beginner
+salsa rumba tango
+big data analytics
+happiness
+java swing
+Visual analysis
+Data Analytics
+MIS in US
+social network analysis
+javascript
+science of happiness
+guitar
+machine learning applications
+play guitar
+multidimensional database
+html5
+ditributed computing with spark
+Improve Cooking Skills
+big data programming techniques
+data visualization
+LGBT
+anomaly detection
+Statistical Learning Theory
+Information retrieval techniques
+android programming
+probability theory
+Association rule learning
+software defined network
+expert python
+control system
+data science
+robotics
+office automatization
+real world machine learning
+data mining
+IELTS to improve English
+lego robotics
+optimal control methods in macroeconomics
+zombie survival
+java
+Complex networks
+Adam Smith
+web crawl
+pattern discovery
+sustainable environmental
+rendering
+statistical learning
+operations research
+Worlds perspective about you
+functional programming lisp
+shopping
+Data Science
+mathematics of music
+locality sensitive hashing
+efficient retrieval from large datasets
+NMR
+scalable machine learning
+Hadoop Mapreduce
+analog design techniques
+visualising big data sets
+unsupervised machine learning
+best ranking algorithms
+text retrieval
+Distributed systems
+How to build an artificial intelligence driven web search engine
+data visualization learning the basic data analisys and graphing tools knoledge
+Software Development for Mobile Devices
+image features
+Cooking
+use MeTA toolkit
+music theory
+sharp minds
+statistical analysis
+GPU programming
+Information retrieval
+Android development
+Artificial Intelligence Applications
+computer graphics
+genetic future
+modern classical music
+sculpting with clay
+Science of Cooking
+Python
+programming in c++
+hadoop
+data mining and financial analysis
+buddhism
+information retrieval for mood detection
+information retreival
+mapreduce algorithm library big data
+android
+game ai
+composition
+Game Theory
+advanced functional programming
+learning from statistical
+Climate Change
+Android user interface design
+ios
+movie production
+mathematical analysis
+artificial intelligence machine learning
+Exploratory Data Analysis
+html programming
+Cooking class
+linear algebra introduction
+pattern recognition
+information theory
+financial accounting
+software for interior design
+python course
+drawing
+wordpress training
+Digital Marketing
+bioinformatic
+big data learning
+mobile app building
+electronic medical records
+To learn how to analyse effectively large data sample
+Learn how to do information retrieval in large scale using ElasticSearch.
+search engines with hadoop
+search engines
+distributed systems
+Predictive Analyic Techniques
+logical agents
+mathematical proofs
+search ranking
+advanced algorithms
+old testament religion
+quantum physics
+Ensemble Classification
+machine learning genetic algorithms neural networks evolutionary
+model driven development
+test automation with selenium
+java security
+ clustering detection
+signal processing
+map-reduce
+software algorithms
+bayesian inference
+Data visualisaion
+jesus christ
+Applied Statistics
+Data Mining
+Integer Programming
+finite field
+computational complexity
+3d modeling
+Robotics
+nlp chinese
+presidential elections
+cooking techniques
+information retrieval.
+Text Retrieval
+statistical inference
+smd pcb design
+crawler
+image retrieval
+financial markets
+gardening
+text analytics
+record deduplication
+information retrieval
+software design
+contemporary cryptography
+Business data science
+big data visualization
+econometrics
+Napoleon Bonaparte
+вфdata mining
+mooc
+category theory
+Chinese history
+scala
+robust data mining techniques
+lean analytics
+western classical music
+ancient history
+dating
+prediction based on statistical data
+earth climate processes
+food weight lifting protein
+mining analytics algorithms
+search engine text retreival
+Data science with algorithms
+web analytics
+Computational Linguistics
+financial market in world war I
+world war
+knowledge mining business
+game development
+Computer Software Security
+Advanced android programming
+autonomous agents
+matrix multiplication using sql
+food and nutrition
+web programming
+software
+visualization of large datasets
+search engine information retrieval
+neural networks
+music appreciation
+MCSD in CMU
+google
+Concurrency programming
+Mine data from large unstructured datasets
+Java
+Unreal Engine game development
+esperanto in 2 months
+statistics
+computer
+game programming
+Supervised learning
+real state
+software design pattern
+how to implement a compiler?
+Stock market prediction
+cybersecurity
+Web Development
+artificial intelligence
+fpga
+mining sensor data
+owl rdf rdfs
+european history
+deep neural networks machine learning
+search engine optimization
+Financial engineering
+People Search Engine
+Sequential Pattern Mining
+audio production
+iOS mobile development with Swift
+twitter analysis
+Decision Trees
+big data processing
+condensed matter physics
+online education
+Information extraction
+To learn how to development machine learning
+open data
+Android Programming
+functional programming languages
+Finance and Investing
+data structures algorithms
+Business Inteligence
+ux user experience programming
+programming in python
+arabic lessons for newbies
+Graph theory
+nosql data mining
+data analysis biology medicine
+music production
+Data structures
+gre exam
+Javascript Large scale applications
+computer science
+credit card fraud
+cyber security
+everyday insights spirituality
+football
+big data mining
+data mining seach engine
+information security ctification
+sql
+MongoDB from scratch
+interactive visualization
+algorithms and datastructure
+pottery
+software security
+automatisation of log analyses
+algorithm
+leadership engineering management
+cloud computing
+SQL
+business strategy
+Interactive Computer Graphics with WebGL
+exploratory data analysis
+Data mining
+cpp
+watercolor painting lessons
+supervised learning
+text analysis
+Software Engineering for Embedded Applications

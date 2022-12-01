@@ -36,8 +36,16 @@ Follow the steps below to recreate the solutions:
 	1.	Install the MeTA toolkit into ./meta/ (a sibling of this readme).
 		Alternitively, install the toolkit into another target location and
 		create the required directory as a symbolic link.
+
+		Example: I'm primamrily programming via Ubuntu on the Windows
+		Subsystem for Linux. I've therefore installed MeTA into it's
+		default location (/home/asgrote1/meta/) and created the following
+		symbolic link:
 		
-		Source: https://meta-toolkit.org/.
+			Source: /mnt/c/Users/asgro/git/coursera-specialization-data-mining/2_text-retrieval/programming-assignment-1/meta/
+			Target: /home/asgrote1/meta/
+		
+		MeTA: https://meta-toolkit.org/.
 		
 	2.	Unpack the assignment's tarball into ./. This will create the
 		Assignment_1 directory as a sibling to this readme.
